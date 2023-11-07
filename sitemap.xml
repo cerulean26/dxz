@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jindalailq.github.io/dxz/post/1bfd925b.html</loc>
+    
+    <lastmod>2023-11-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jindalailq.github.io/dxz/post/7a6a6b5a.html</loc>
     
     <lastmod>2023-11-07</lastmod>
@@ -64,6 +73,20 @@
   </url>
 
   
+  <url>
+    <loc>https://jindalailq.github.io/dxz/tags/Docker/</loc>
+    <lastmod>2023-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://jindalailq.github.io/dxz/categories/Docker/</loc>
+    <lastmod>2023-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
