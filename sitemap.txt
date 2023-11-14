@@ -1,10 +1,10 @@
+https://jindalailq.github.io/dxz/tags/index.html
+https://jindalailq.github.io/dxz/link/index.html
+https://jindalailq.github.io/dxz/categories/index.html
 https://jindalailq.github.io/dxz/post/1bfd925b.html
 https://jindalailq.github.io/dxz/post/7a6a6b5a.html
 https://jindalailq.github.io/dxz/post/4a17b156.html
 https://jindalailq.github.io/dxz/link.json
-https://jindalailq.github.io/dxz/link/index.html
-https://jindalailq.github.io/dxz/categories/index.html
-https://jindalailq.github.io/dxz/tags/index.html
 https://jindalailq.github.io/dxz
 https://jindalailq.github.io/dxz/tags/Docker/
 https://jindalailq.github.io/dxz/categories/Docker/
